@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Premium Korea Renewal",
+  "description": "대한민국 공식 요금제 기반의 YouTube Premium 인터랙티브 리뉴얼 프로토타입. 실시간 광고 제거 스위치, 백그라운드 & PIP 멀티태스킹 시뮬레이터, YouTube Music 주크박스 및 투명한 요금 비교기 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
